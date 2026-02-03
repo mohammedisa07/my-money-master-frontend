@@ -1,0 +1,11 @@
+MONEY MANAGER SUBMISSION
+
+FRONTEND:
+Repository URL: https://github.com/mohammedisa07/my-money-master-frontend.git
+Last Committed Hash ID: de0d9d7a70ae8e73bb106bce1920aae9340376967
+Deployment URL: https://my-money-master-frontend.vercel.app/
+
+BACKEND:
+Repository URL: https://github.com/mohammedisa07/my-money-master-backend.git
+Last Committed Hash ID: 89841028274466c1d6ad84ff6bf466177c202499
+Deployment URL: https://my-money-master-backend.onrender.com
