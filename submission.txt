@@ -17,9 +17,9 @@ SUBMISSION LINKS:
    - Backend: https://github.com/mohammedisa07/my-money-master-backend
 
 3. DEMO VIDEO LINK:
-   - [Add your YouTube or Google Drive link here]
+   - https://drive.google.com/file/d/1lNuynPKSpLAVhQfpr-NV9lQ9pSsQMTkY/view?usp=sharing
 
 --------------------------------------------------
 VERIFICATION DATA (Commit Hashes):
-- Frontend Hash: bbe2a91bebd8e46cb8969d4b30feb69ffb24e2c7
-- Backend Hash: 574beb5732b1ff2b6acf6185a90bd8ce33851452
+- Frontend Hash: 4cc8f219a381eb7cccce478554ab75266818d0a49
+- Backend Hash: 90564ab76643db3a73273e1ccbc100cf8d97a22f5
