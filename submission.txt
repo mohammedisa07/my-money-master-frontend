@@ -1,11 +1,25 @@
-MONEY MANAGER SUBMISSION
+MONEY MASTER - PERSONAL FINANCE TRACKER
 
-FRONTEND:
-Repository URL: https://github.com/mohammedisa07/my-money-master-frontend.git
-Last Committed Hash ID: de0d9d7a70ae8e73bb106bce1920aae9340376967
-Deployment URL: https://my-money-master-frontend.vercel.app/
+PROJECT DESCRIPTION:
+Money Master is a modern, intuitive web application designed to make personal finance management effortless. 
+Users can easily record income and expenditures, categorize transactions (e.g., Food, Fuel, Medical), and switch between Personal and Office divisions. 
+The application features a real-time dashboard with month-wise, weekly, and yearly spending analytics, a transaction history tracker, and strict rules for editing transactions (limited to a 12-hour window). 
+It also includes robust account management, allowing users to track balances and transfers between multiple accounts.
 
-BACKEND:
-Repository URL: https://github.com/mohammedisa07/my-money-master-backend.git
-Last Committed Hash ID: 89841028274466c1d6ad84ff6bf466177c202499
-Deployment URL: https://my-money-master-backend.onrender.com
+SUBMISSION LINKS:
+
+1. LIVE DEPLOYED URL: 
+   - Frontend (Main App): https://my-money-master-frontend.vercel.app/
+   - Backend API: https://my-money-master-backend.onrender.com
+
+2. GITHUB REPOSITORY LINKS:
+   - Frontend: https://github.com/mohammedisa07/my-money-master-frontend
+   - Backend: https://github.com/mohammedisa07/my-money-master-backend
+
+3. DEMO VIDEO LINK:
+   - [Add your YouTube or Google Drive link here]
+
+--------------------------------------------------
+VERIFICATION DATA (Commit Hashes):
+- Frontend Hash: bbe2a91bebd8e46cb8969d4b30feb69ffb24e2c7
+- Backend Hash: 574beb5732b1ff2b6acf6185a90bd8ce33851452
